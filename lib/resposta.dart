@@ -15,7 +15,7 @@ class Resposta extends StatelessWidget {
         width: double.infinity,
         child: ElevatedButton(
           style: ElevatedButton.styleFrom(
-            primary: Colors.deepPurpleAccent,
+            primary: Color.fromARGB(255, 77, 255, 86),
           ),
           onPressed: quandoSelecionado,
           child: Text(
