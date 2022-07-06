@@ -25,6 +25,9 @@ Aqui estão as tecnologias e linguagens usadas neste projeto.
   - Você é muito bom!
   - Impressionante!
   - Nível Expert
+  
+* Demo in Code:  
+![demo in code](https://github.com/kaduediting/ProjetoQuizz/blob/main/public/readme/demoincode.jpg)
 
 ## Demonstração
 
@@ -54,7 +57,7 @@ O Sitema de Pontos das respostas consiste em:
 
 
 ## Links
-  - Linkedin Post: 
+  - Linkedin Post: https://www.linkedin.com/posts/kadu-editing_flutter-dart-dev-activity-6950554462151192577-DQQC?utm_source=linkedin_share&utm_medium=member_desktop_web
   - Repository: https://github.com/kaduediting/ProjetoQuizz
 
   ## Evolução do Aprendizado
