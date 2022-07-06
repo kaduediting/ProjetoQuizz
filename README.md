@@ -1,16 +1,10 @@
-# flutter_application_1
+# Questionário - Quizz
 
-A new Flutter project.
+Novo Projeto Flutter 😁
 
-## Getting Started
+## Vamos Começar
 
-This project is a starting point for a Flutter application.
+Este projeto é um ponto de partida para uma aplicação Flutter, com o principal intuito de aprendizado como Dev Mobile - Flutter - Dart.
 
-A few resources to get you started if this is your first Flutter project:
+## Aplicativo em Funcionamento
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
