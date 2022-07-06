@@ -57,20 +57,20 @@ O Sitema de Pontos das respostas consiste em:
 
 
 ## Links
-  - Linkedin Post: https://www.linkedin.com/posts/kadu-editing_flutter-dart-dev-activity-6950554462151192577-DQQC?utm_source=linkedin_share&utm_medium=member_desktop_web
-  - Repository: https://github.com/kaduediting/ProjetoQuizz
+  - [Linkedin Post](https://www.linkedin.com/posts/kadu-editing_flutter-dart-dev-activity-6950554462151192577-DQQC?utm_source=linkedin_share&utm_medium=member_desktop_web)<br/>
+  - [Repository](https://github.com/kaduediting/ProjetoQuizz)<br/>
 
   ## Evolução do Aprendizado
-
-  - Componentização de Widget
-  - Package Material
-  - StatefulWidget
-  - StatelessWidget
-  - setState (Sistema de Pontuação)
-  - Scaffold (appBar)
+  - Noções Básicas de Flutter ✅
+  - Componentização de Widget ✅
+  - Package Material ✅
+  - StatefulWidget ✅
+  - StatelessWidget ✅
+  - setState (Sistema de Pontuação) ✅
+  - Scaffold (appBar) ✅
 
   ## Authors
 
-  * **Carlos Eduardo** 
+  * **Carlos Eduardo - kaduediting** 
 
-  Projeto com o intuito de Aprendizado 🎓
+  Projeto com o objetivo de Aprendizado 🎓
