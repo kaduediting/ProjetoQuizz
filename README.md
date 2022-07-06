@@ -1,6 +1,7 @@
 
-![Logo of the project](https://github.com/kaduediting/ProjetoQuizz/blob/main/public/readme/quiz%20logo.png)
-
+<p align="center">
+	<img width="960" height="440" src="https://github.com/kaduediting/ProjetoQuizz/blob/main/public/readme/quiz%20logo.png">
+</p>
 
 ## Project Flutter
 Esse é o meu primeiro projeto em Flutter, com o principal intuito de aprendizado!
@@ -31,21 +32,37 @@ Aqui estão as tecnologias e linguagens usadas neste projeto.
 
 ## Demonstração
 
+<p align="center">
+	<img width="500" height="300" src="">
+</p>
+
+
+## Estrutura
+
 ### 1º - Pergunta
 
-![Image 1](https://github.com/kaduediting/ProjetoQuizz/blob/main/public/readme/1.jpg)
+<p align="center">
+	<img width="500" height="656" src="https://github.com/kaduediting/ProjetoQuizz/blob/main/public/readme/1.jpg">
+</p>
 
 ### 2º - Pergunta
 
-![Image 2](https://github.com/kaduediting/ProjetoQuizz/blob/main/public/readme/2.jpg)
+<p align="center">
+	<img width="498" height="656" src="https://github.com/kaduediting/ProjetoQuizz/blob/main/public/readme/2.jpg">
+</p>
 
 ### 3º - Pergunta
 
-![Image 3](https://github.com/kaduediting/ProjetoQuizz/blob/main/public/readme/3.jpg)
+<p align="center">
+	<img width="500" height="657" src="https://github.com/kaduediting/ProjetoQuizz/blob/main/public/readme/3.jpg">
+</p>
 
 ### 4 - Resultado gerado a partir da pontuação
 
-![Result](https://github.com/kaduediting/ProjetoQuizz/blob/main/public/readme/4.jpg)
+<p align="center">
+	<img width="500" height="657" src="https://github.com/kaduediting/ProjetoQuizz/blob/main/public/readme/4.jpg">
+</p>
+
 
 ## Como funciona o Sistema de Pontos
 
